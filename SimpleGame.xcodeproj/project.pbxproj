@@ -266,6 +266,7 @@
 		FC5DF355174D142800FF6210 /* cpVect.c in Sources */ = {isa = PBXBuildFile; fileRef = FC5DF354174D142800FF6210 /* cpVect.c */; };
 		FC5DF35C174D142800FF6210 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FC5DF35B174D142800FF6210 /* AppDelegate.cpp */; };
 		FC5DF35F174D142800FF6210 /* HelloWorldScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FC5DF35E174D142800FF6210 /* HelloWorldScene.cpp */; };
+		FC5DF366174DC23F00FF6210 /* Fruit04.png in Resources */ = {isa = PBXBuildFile; fileRef = FC5DF365174DC23E00FF6210 /* Fruit04.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -832,6 +833,7 @@
 		FC5DF35B174D142800FF6210 /* AppDelegate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = Classes/AppDelegate.cpp; sourceTree = "<group>"; };
 		FC5DF35D174D142800FF6210 /* HelloWorldScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HelloWorldScene.h; path = Classes/HelloWorldScene.h; sourceTree = "<group>"; };
 		FC5DF35E174D142800FF6210 /* HelloWorldScene.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = HelloWorldScene.cpp; path = Classes/HelloWorldScene.cpp; sourceTree = "<group>"; };
+		FC5DF365174DC23E00FF6210 /* Fruit04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fruit04.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -902,6 +904,7 @@
 		FC5DEFF8174D142100FF6210 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FC5DF365174DC23E00FF6210 /* Fruit04.png */,
 				FC5DEFF9174D142100FF6210 /* CloseNormal.png */,
 				FC5DEFFB174D142100FF6210 /* CloseSelected.png */,
 				FC5DEFFD174D142100FF6210 /* Default.png */,
@@ -2047,6 +2050,7 @@
 				FC5DF00E174D142100FF6210 /* iTunesArtwork in Resources */,
 				FC5DF0AA174D142300FF6210 /* ChangeLog in Resources */,
 				FC5DF214174D142600FF6210 /* project.pbxproj in Resources */,
+				FC5DF366174DC23F00FF6210 /* Fruit04.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2430,6 +2434,7 @@
 				FC5DF364174D142800FF6210 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
